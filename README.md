@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Mohammed</h1>
-<h3 align="center">An experienced developer graduated in Computer Science and Engineering</h3>
+<h3 align="center">An experienced developer who graduated in Computer Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilmohak&label=Profile%20views&color=0e75b6&style=flat" alt="adilmohak" /> </p>
 
