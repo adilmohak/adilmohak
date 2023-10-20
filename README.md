@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adil Mohammed</h1>
-<h3 align="center">An experienced developer who graduated in Computer Science and Engineering</h3>
+<h3 align="center">I am a Computer Science and Engineering graduate with extensive experience in software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilmohak&label=Profile%20views&color=0e75b6&style=flat" alt="adilmohak" /> </p>
 
-- 🔭 I’m currently working on **a Django and React project**
+- 🔭 I’m currently working on **a full-stack web app**
 
 - 🌱 I’m currently learning **advanced data visualization techniques in Python**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Django, React, and best practices in web development**
 
-- ⚡ Fun fact **Ummmm...**
+- ⚡ Fun fact **Ummm...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
