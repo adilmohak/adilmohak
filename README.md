@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilmohak&label=Profile%20views&color=0e75b6&style=flat" alt="adilmohak" /> </p>
 
-- 🔭 I’m currently working on **a full-stack web app**
+- 🔭 I’m currently working on **another awesome app**
 
 - 🌱 I’m currently learning **advanced data visualization techniques in Python**
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adilmohak](https://github.com/adilmohak)
 
-- 💬 Ask me about **Django, React, and best practices in web development**
+- 💬 Ask me about **Django, React, ML, and best practices in web development**
 
-- ⚡ Fun fact **Ummm...**
+- ⚡ Fun fact **I'm not afraid of bugs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
